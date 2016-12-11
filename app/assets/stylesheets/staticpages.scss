@@ -1,0 +1,95 @@
+// Place all the styles related to the staticpages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+//keyboard
+.green {
+    color: #4CC552;
+}
+.red {
+    color: red;
+}
+.instruction{
+    font-size:40px;
+    text-align:center;
+}
+
+div.alpha {
+    border: 1px solid;
+    float: left;
+    text-align: center;
+}
+.indexl{
+	background-color: yellow;
+}
+.indexr{
+	background-color:orange;
+}
+.middle{
+	background-color:pink;
+}
+.ring{
+	background-color:cyan;
+}
+.pinky{
+	background-color:#4CC552;
+}
+.keyboard{
+	margin-left: auto;
+}
+.dho{
+	margin-bottom: 47px;
+	padding-bottom: 1px;
+	width: 700px;
+}
+.drill{
+	font-weight: bold;
+	font-size: 22px;
+	height: 50px;
+
+	/*border: 2px solid white;*/
+
+}
+.check{
+	font-weight: bold;
+	z-index: 1000;
+	font-size: 22px;
+	height: 50px;
+	margin-top: -50px;
+	/*border: 2px solid #73AD21;*/
+}
+.box{
+	/*margin-top: 100px;*/
+}
+.special{
+	font-size: 8px !important;
+}
+.headofapp{
+	background-color:#BCC6CC;
+	height: 200px;
+}
+.logo{
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	border-bottom-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	text-shadow: 2px 2px #BCC3CC;
+}
+.boxformain{
+	background-color: #EBF4FA;
+	height: 150px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.innerbox{
+		border: 2px solid white;
+
+}
+.num{
+	margin-top: 50px;
+
+}
